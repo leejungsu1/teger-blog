@@ -12,7 +12,7 @@
 
 theme: "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale: "en-US"
@@ -126,13 +126,13 @@ author:
 footer:
   links:
     - label: "Notion"
-      icon: "fab fa-fw fa-notion-square"
+      icon: "fas fa-fw fa-link"
       url: "https://changeable-television-67c.notion.site/Web-Developer-Jungsu-Lee-572e6da252134eae827e67a9a50ec5cb"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://github.com/leejungsu1"
     - label: "GitHub"
-      icon: "fab fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-github"
       url: "https://github.com/leejungsu1"
 
 # Reading Files
