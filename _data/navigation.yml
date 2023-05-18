@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "About"
+    url: /about/
+  - title: "정보처리기사"
+    url: /jeoungbo/
+  - title: "AWS CCP"
+    url: /aws-ccp/
+  - title: "끄적끄적"
+    url: /blog/
   # - title: "Sitemap"
   #   url: /sitemap/
