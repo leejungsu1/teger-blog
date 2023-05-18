@@ -92,6 +92,7 @@ GEM
     unicode-display_width (2.4.2)
     webrick (1.8.1)
     faraday-retry
+    minimal-mistakes-jekyll theme
 
 PLATFORMS
   arm64-darwin-22
