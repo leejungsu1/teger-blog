@@ -42,7 +42,8 @@ comments:
     colorscheme: # "light" (default), "dark"
   utterances:
     theme: "github-light" # "github-light" (default), "github-dark"
-    issue_term: # "pathname" (default)
+    issue_term: "pathname" # "pathname" (default)
+    label: "comment"
   giscus:
     repo_id: # Shown during giscus setup at https://giscus.app
     category_name: # Full text name of the category
@@ -117,7 +118,7 @@ author:
       url: "https://changeable-television-67c.notion.site/Web-Developer-Jungsu-Lee-572e6da252134eae827e67a9a50ec5cb"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://github.com/leejungsu1"
+      url: "https://www.linkedin.com/in/jungsu-lee-79925b24b/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/leejungsu1"

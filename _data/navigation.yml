@@ -1,12 +1,43 @@
-# main links
+# main links links
 main:
   - title: "About"
     url: /about/
+  - title: "posts"
+    url: /year-archive/
+  - title: "category"
+    url: /categories/
+  # - title: "Extra Menu Item 1"
+  #   url: /
+  # - title: "Extra Menu Item 2"
+  #   url: /
+  # - title: "Extra Menu Item Long Title"
+  #   url: /
+
+# sidebar navigation list sample
+sidebar-aws:
+  - title: "aws"
+    children:
+      - title: "ccp 준비하기"
+        url: /ccp/
+      - title: "ccp 요약"
+        url: /ccp_intro/
+      - title: "ccp dump"
+        url: /ccp_dump/
+
+# sidebar navigation list sample
+sidebar-jeoungbo:
   - title: "정보처리기사"
-    url: /jeoungbo/
-  - title: "AWS CCP"
-    url: /aws-ccp/
+    children:
+      - title: "필기"
+        url: /writing/
+      - title: "실기"
+        url: /PracticalSkill/
+      - title: "정보처리 준비하기"
+        url: /plan/
+
+# sidebar navigation list sample
+sidebar-etc:
   - title: "끄적끄적"
-    url: /blog/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+    children:
+      - title: "blog"
+        url: /blog/
