@@ -18,9 +18,9 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale: "en-US"
 title: "teger's Blog"
 title_separator: "-"
-subtitle: "시행착오 일지" # site tagline that appears below site title in masthead
+subtitle: "쿰척쿰척 💻" # site tagline that appears below site title in masthead
 name: "JungsuLee"
-description: "끄적끄적"
+description: "개발일지"
 url: "https://leejungsu1.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "/teger-blog" # the subpath of your site, e.g. "/blog"
 repository: "leejungsu1/teger-blog" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name: "Teger"
+  name: "Teger 😎✌"
   avatar: "/assets/images/profile1.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "시행착오 일지"
+  bio: "쿰척쿰척 💻"
   location: "Korea"
   # email:
   links:

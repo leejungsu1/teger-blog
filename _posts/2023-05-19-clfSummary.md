@@ -1,5 +1,5 @@
 ---
-title: "AWS CLF 요약정리"
+title: "📝 AWS CLF 요약정리"
 categories:
   - AWS
 tags:
@@ -16,7 +16,7 @@ toc_sticky: true
 
 # AWS CLF
 
-## 출제 구성
+## 📊 출제 구성
 
 {% capture notice-2 %}
 
@@ -28,13 +28,13 @@ toc_sticky: true
 
 <div class="notice">{{ notice-2 | markdownify }}</div>
 
-## 출제 범위
+## 🗂 출제 범위
 
 <img src="{{site.url}}{{site.baseurl}}/assets/images/awsService.jpeg" alt="awsService">
 
-## 요약정리
+## 📝 요약정리
 
-### 클라우드
+### 🔸 클라우드
 
 #### 클라우드의 이점
 
