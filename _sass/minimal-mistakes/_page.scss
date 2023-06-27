@@ -68,6 +68,12 @@ body {
   }
 }
 
+.left-box {
+  padding: 4em;
+  margin-left: 5em !important;
+  font-size: 1em !important;
+}
+
 .page__title {
   margin-top: 0;
   line-height: 1;
@@ -178,6 +184,12 @@ body {
   blockquote + .small {
     margin-top: -1.5em;
     padding-left: 1.25rem;
+  }
+  .red-font {
+    font-size: 0.8em;
+    color: red;
+    font-weight: bold;
+    text-indent: 2em;
   }
 }
 

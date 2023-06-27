@@ -157,6 +157,19 @@ body:hover .visually-hidden button {
     margin-right: 1em;
   }
 }
+.align-left-clf {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0.8em;
+  width: 150px;
+  height: auto;
+
+  @include breakpoint($small) {
+    float: left;
+    margin-right: 1em;
+  }
+}
 
 /* image align right */
 
