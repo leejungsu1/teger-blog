@@ -199,6 +199,14 @@ body:hover .visually-hidden button {
     margin-right: -1 * span(2.5 of 12) !important;
   }
 }
+.full-csr {
+  @include breakpoint($large) {
+    margin-right: -1 * span(2.5 of 12) !important;
+    width: 15em;
+    height: auto;
+    margin-left: 20vw !important;
+  }
+}
 
 /*
    Icons
@@ -604,4 +612,12 @@ a.reversefootnote {
   .page__footer {
     position: static;
   }
+}
+
+/*
+   notice
+   ========================================================================== */
+
+.notice-my {
+  font-size: 1em !important;
 }
